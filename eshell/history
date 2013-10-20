@@ -1,0 +1,9 @@
+ls
+mkdir githun
+ls
+rmdir githun/
+mkdir github
+cd github/
+git clone http://github.com/Ansterd/nobus
+Resolving deltas: 100% (574/574), done.
+ls
